@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e246924-25d9-49cf-89ba-873e4bdfa8d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/IncidenciasCOVID19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Calidad_Datos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Clustering_PCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Estadistica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Modelado_Temporal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/estadistica.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/startup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="5e246924-25d9-49cf-89ba-873e4bdfa8d0" name="Changes" comment="First Commit Incidencias Covid 19">
+      <change afterPath="$PROJECT_DIR$/app/pages/Modelado_Temporal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/Pagina_Principal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Calidad_Datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Calidad_Datos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Clustering_PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Clustering_PCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Estadistica.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Estadistica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Modelado_Temporal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EdwinFlores19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EdwinFlores19/Incidencias-Covid-19.git",
+    "accountId": "d6d86693-4d69-43fd-b44b-392770b9ab4b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -59,6 +63,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ejuni\PycharmProjects\IncidenciasCOVID19\app" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1755815856609</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit Incidencias Covid 19">
+      <option name="closed" value="true" />
+      <created>1755816900998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755816900998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit Incidencias Covid 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit Incidencias Covid 19" />
   </component>
 </project>

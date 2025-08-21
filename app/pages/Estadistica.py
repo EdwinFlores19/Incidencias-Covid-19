@@ -5,7 +5,8 @@ from scipy import stats
 import numpy as np
 
 # Importar la función de carga desde la app principal
-from app.app import load_data
+# CORRECCIÓN: Ahora se importa directamente desde app.py
+from Pagina_Principal import load_data
 
 st.set_page_config(page_title="Estadística Avanzada", layout="wide")
 st.title("Estadística Descriptiva y Avanzada")

@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import numpy as np
 
-from app.app import load_data
+# CORRECCIÓN: Ahora se importa directamente desde Pagina_Principal.py
+from Pagina_Principal import load_data
 
 st.set_page_config(page_title="Calidad de Datos", layout="wide")
 st.title("Análisis de Calidad de Datos")

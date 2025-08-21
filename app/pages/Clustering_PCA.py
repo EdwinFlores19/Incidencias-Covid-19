@@ -5,7 +5,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 
-from app.app import load_data
+# CORRECCIÓN: Ahora se importa directamente desde app.py
+from Pagina_Principal import load_data
 
 st.set_page_config(page_title="Clustering y PCA", layout="wide")
 st.title("Segmentación de Países y Reducción de Dimensionalidad")
@@ -15,7 +16,7 @@ df_raw, df_country = load_data()
 # --- 4.1 y 4.2: K-means y PCA ---
 st.header("Clustering de Países con K-means y PCA")
 features = ['Confirmed', 'Deaths', 'Recovered', 'Active', 'CFR']
-df_cluster = df_country.dropna(subset=features)
+df_cluster = df_country.dropna(subset=features).copy()
 df_cluster_features = df_cluster[features]
 
 # Escalar datos
