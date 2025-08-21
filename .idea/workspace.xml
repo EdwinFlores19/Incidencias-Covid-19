@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e246924-25d9-49cf-89ba-873e4bdfa8d0" name="Changes" comment="First Commit Incidencias Covid 19">
-      <change afterPath="$PROJECT_DIR$/app/pages/Modelado_Temporal.py" afterDir="false" />
+    <list default="true" id="5e246924-25d9-49cf-89ba-873e4bdfa8d0" name="Changes" comment="Mejora de Paginas y nomenclatura">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/Pagina_Principal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Calidad_Datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Calidad_Datos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Clustering_PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Clustering_PCA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Estadistica.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Estadistica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Modelado_Temporal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Pagina_Principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/Pagina_Principal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/Calidad_Datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Calidad_Datos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/Clustering_PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Clustering_PCA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/Estadistica.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Estadistica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/Modelado_Temporal.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/pages/Modelado_Temporal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755816900998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mejora de Paginas y nomenclatura">
+      <option name="closed" value="true" />
+      <created>1755818274310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755818274310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit Incidencias Covid 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit Incidencias Covid 19" />
+    <MESSAGE value="Mejora de Paginas y nomenclatura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mejora de Paginas y nomenclatura" />
   </component>
 </project>
