@@ -6,7 +6,7 @@ import numpy as np              # Para operaciones numéricas, especialmente la 
 
 # CORRECCIÓN: Ahora se importa directamente desde app.py, que está en el directorio padre.
 # Esto permite que todas las páginas usen la misma función de carga de datos cacheada.
-from app import load_data
+from Pagina_Principal import load_data
 
 # Configura las propiedades iniciales de la página web.
 st.set_page_config(page_title="Calidad de Datos", layout="wide")
